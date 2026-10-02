@@ -1,0 +1,34 @@
+{
+  "name": "jano",
+  "version": "0.0.1",
+  "description": "Universal data format converter: transform between multiple formats with a single tool.",
+  "keywords": [
+    "conversor",
+    "connvert",
+    "json",
+    "xlsx",
+    "sql",
+    "jpg",
+    "ods",
+    "yaml",
+    "csv",
+    "xml",
+    "html",
+    "xls"
+  ],
+  "homepage": "https://github.com/diesousil/jano#readme",
+  "bugs": {
+    "url": "https://github.com/diesousil/jano/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diesousil/jano.git"
+  },
+  "license": "MIT",
+  "author": "Diego Silva",
+  "type": "esm-only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
